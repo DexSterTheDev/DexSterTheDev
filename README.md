@@ -23,4 +23,10 @@ Hi myself Basit Hameed, you can call me DexSter. I'm a student of Computer Scien
   
 <hr>
 
-[![spotify](https://dev.discordprofiles.me/badge/spotify/614872428732088326?style=flat-square)](https://dev.discordprofiles.me/openspotify/614872428732088326?style=flat-square)
+![status](https://dev.discordprofiles.me/badge/status/614872428732088326?style=flat-square)
+![playing](https://dev.discordprofiles.me/badge/playing/614872428732088326?style=flat-square)
+![vscode](https://dev.discordprofiles.me/badge/vscode/614872428732088326?style=flat-square)
+![intellij](https://dev.discordprofiles.me/badge/intellij/614872428732088326?style=flat-square)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/614872428732088326614872428732088326?style=flat-square)](https://dev.discordprofiles.me/openspotify/614872428732088326?style=flat-square)
+    
+</div>

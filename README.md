@@ -15,6 +15,7 @@ Hi myself Basit Hameed, you can call me DexSter. I'm a student of Computer Scien
   
 ### ⚒️ Interested
 <img width="35px" src="https://cdn.discordapp.com/emojis/813907629989691442.png?v=1" />
+<img width="35px" src="https://cdn.discordapp.com/emojis/230394175080628234.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/813907670176104478.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/813908546852880405.png?v=1" />
 <img width="35px" src="https://cdn.discordapp.com/emojis/754345609384951940.gif?v=1" />

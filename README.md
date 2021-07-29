@@ -1,5 +1,4 @@
------ Copyright 2019 - 2021, All rights Reserved | Basit Hameed -----
-
+<!--Copyright 2019 - 2021 Basit Hameed https://bit.ly/2UygZzt/>
 # About
 Hi myself Basit Hameed,  you can call me DexSter. I'm a student of Computer Science who is passionate about making awesome things. I spend my free time on discord, coding or sometimes I do playing games
 

@@ -22,6 +22,9 @@ Hi myself Basit Hameed, you can call me DexSter. I'm a student of Computer Scien
 <img width="40px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
   
 <hr>
+ 
+ ### 🔖 My Statistics
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DexSterTheDev&background=DDDDDD&border=0B0202&stroke=2E0808A4)](https://git.io/streak-stats)
 
 ![status](https://dev.discordprofiles.me/badge/status/614872428732088326?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/614872428732088326?style=flat-square)

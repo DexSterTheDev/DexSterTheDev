@@ -21,7 +21,7 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 ![](https://github-readme-streak-stats.herokuapp.com?user=DexSterTheDev&background=DDDDDD&border=0B0202&stroke=2E0808A4)
 ![](https://github-readme-stats.vercel.app/api?username=DexSterTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexSterTheDev&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
-[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
+[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)(https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
 
 ![status](https://dev.discordprofiles.me/badge/status/614872428732088326?style=flat-square)
 ![playing](https://dev.discordprofiles.me/badge/playing/614872428732088326?style=flat-square)

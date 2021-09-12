@@ -11,11 +11,11 @@
     </a>
     &nbsp;
     <a href="https://github.com/DexSterTheDev/">
-        <img src="./assets/icons/header/github.svg" width="25px" />
+        <img src=".https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="25px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/iambasithameed/">
-        <img src="./assets/icons/header/twitter.svg" width="25px" />
+        <img src="https://images.squarespace-cdn.com/content/v1/52fa616ee4b0e8aa92db6591/1517415042341-HWUAXH6LD0E1LLLLRK62/Twitter-logo.png?format=1000w" width="25px" />
     </a>
 </p>
 

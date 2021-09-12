@@ -1,10 +1,27 @@
 <div align = "center">
 
-<a href = "https://basitshahidhamid.wixsite.com/dexstercodes"/>
-<img src = "https://i.imgur.com/XtKQ0jK.png" />
-</a>
+<p align="center">
+    <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
+        <img src="./assets/banner.svg" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
+        <img src="./assets/icons/header/website.svg" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/DexSterTheDev/">
+        <img src="./assets/icons/header/github.svg" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/iambasithameed/">
+        <img src="./assets/icons/header/twitter.svg" width="25px" />
+    </a>
+</p>
 
-### 👤 About
+
+## :bust_in_silhouette: About Me
+&nbsp;
 Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science who is passionate about making awesome things. I spend my free time on discord, coding or sometimes I do playing games
 
 ### ⚒️ Interested

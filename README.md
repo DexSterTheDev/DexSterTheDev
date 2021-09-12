@@ -2,20 +2,20 @@
 
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src="" />
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rIMJB0Lh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/881jdm7sdnril6hn3f3l.PNG" />
     </a>
 </p>
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src="https://www.netclipart.com/pp/m/250-2504464_transparent-background-web-icon.png" width="25px" />
+        <img src="https://www.export-entreprises.com/wp-content/themes/ee-jnhey/img/solutions/sub/trade-portal/hero-icon-sub-trade-portal.svg" width="25px" />
     </a>
     &nbsp;
     <a href="https://github.com/DexSterTheDev/">
-        <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="25px" />
+        <img src="https://static.wixstatic.com/media/d323bd_d84bd6dda971456e97010225b1d00d1d~mv2.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01/d323bd_d84bd6dda971456e97010225b1d00d1d~mv2.webp" width="25px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/iambasithameed/">
-        <img src="https://www.pngfind.com/pngs/m/49-493954_twitter-purple-purple-twitter-logo-png-transparent-png.png" width="25px" />
+        <img src="https://static.wixstatic.com/media/c4392d634a0148fda8b7b2b0ad98293b.png/v1/fill/w_30,h_30,al_c,q_85,usm_0.66_1.00_0.01/c4392d634a0148fda8b7b2b0ad98293b.webp" width="25px" />
     </a>
 </p>
 

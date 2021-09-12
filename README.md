@@ -2,12 +2,12 @@
 
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src="./assets/banner.svg" />
+        <img src="" />
     </a>
 </p>
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src="" width="25px" />
+        <img src="https://www.netclipart.com/pp/m/250-2504464_transparent-background-web-icon.png" width="25px" />
     </a>
     &nbsp;
     <a href="https://github.com/DexSterTheDev/">

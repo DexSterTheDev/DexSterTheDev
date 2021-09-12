@@ -15,7 +15,7 @@
     </a>
     &nbsp;
     <a href="https://twitter.com/iambasithameed/">
-        <img src="https://images.squarespace-cdn.com/content/v1/52fa616ee4b0e8aa92db6591/1517415042341-HWUAXH6LD0E1LLLLRK62/Twitter-logo.png?format=1000w" width="25px" />
+        <img src="https://www.pngfind.com/pngs/m/49-493954_twitter-purple-purple-twitter-logo-png-transparent-png.png" width="25px" />
     </a>
 </p>
 

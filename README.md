@@ -7,11 +7,11 @@
 </p>
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src="./assets/icons/header/website.svg" width="25px" />
+        <img src="" width="25px" />
     </a>
     &nbsp;
     <a href="https://github.com/DexSterTheDev/">
-        <img src=".https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="25px" />
+        <img src="https://icones.pro/wp-content/uploads/2021/06/symbole-github-violet.png" width="25px" />
     </a>
     &nbsp;
     <a href="https://twitter.com/iambasithameed/">

@@ -56,7 +56,10 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 ![vscode](https://dev.discordprofiles.me/badge/vscode/614872428732088326?style=flat-square)
 ![intellij](https://dev.discordprofiles.me/badge/intellij/614872428732088326?style=flat-square)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/614872428732088326614872428732088326?style=flat-square)](https://dev.discordprofiles.me/openspotify/614872428732088326?style=flat-square)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexsterthedev)](https://github.com/dexsterthedev/github-readme-stats)
+![DexSter's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexsterthedev&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexsterthedev&layout=compact)](https://github.com/dexsterthedev/github-readme-stats)
+
+
 
 
     

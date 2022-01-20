@@ -33,8 +33,9 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
     </a>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexsterthedev&layout=compact)](https://github.com/dexsterthedev)
+    
+    
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=no1z8d43u06hgap5b9c7nd6fh&cover_image=true&theme=novatorem&bar_color=050505&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=no1z8d43u06hgap5b9c7nd6fh&redirect=true)
 
 </div>
-
-
 

@@ -29,7 +29,7 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 &nbsp;
 <p align="center">
     <a href="https://github.com/DexSterTheDev/">
-        <img src="https://github-readme-stats.vercel.app/api?username=DexSterTheDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DexSterTheDev&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=#0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
     </a>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexsterthedev&layout=compact)](https://github.com/dexsterthedev)

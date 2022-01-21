@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rIMJB0Lh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/881jdm7sdnril6hn3f3l.PNG" />
+        <img src=" />
     </a>
 </p>
 <p align="center">
@@ -38,3 +38,4 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 
 </div>
 
+![github-bg](https://user-images.githubusercontent.com/56188490/150573845-3e48ec36-f31e-4e9c-ba34-b6c8b7c15281.png)

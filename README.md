@@ -1,6 +1,6 @@
 <div align = "center">
 
-![github-bg](https://user-images.githubusercontent.com/56188490/150573845-3e48ec36-f31e-4e9c-ba34-b6c8b7c15281.png) 
+![github-bg](https://user-images.githubusercontent.com&link=hidden/56188490/150573845-3e48ec36-f31e-4e9c-ba34-b6c8b7c15281.png) 
   
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
@@ -35,4 +35,3 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 
 </div>
 
-![github-bg](https://user-images.githubusercontent.com/56188490/150573845-3e48ec36-f31e-4e9c-ba34-b6c8b7c15281.png)

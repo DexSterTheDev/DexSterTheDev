@@ -1,10 +1,7 @@
 <div align = "center">
 
-<p align="center">
-    <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
-        <img src=" />
-    </a>
-</p>
+![github-bg](https://user-images.githubusercontent.com/56188490/150573845-3e48ec36-f31e-4e9c-ba34-b6c8b7c15281.png) 
+  
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
         <img src="https://www.export-entreprises.com/wp-content/themes/ee-jnhey/img/solutions/sub/trade-portal/hero-icon-sub-trade-portal.svg" width="25px" />

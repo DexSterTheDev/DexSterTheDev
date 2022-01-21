@@ -1,7 +1,6 @@
 <div align = "center">
 
-![github-bg]((https://github.com/DexSterTheDev)/150573845-3e48ec36-f31e-4e9c-ba34-b6c8b7c15281.png) 
-  
+![github-bg](https://user-images.githubusercontent.com/56188490/150574365-bb440822-f010-413b-85d9-6c686566eaa6.png)  
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
         <img src="https://www.export-entreprises.com/wp-content/themes/ee-jnhey/img/solutions/sub/trade-portal/hero-icon-sub-trade-portal.svg" width="25px" />
@@ -31,6 +30,7 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=no1z8d43u06hgap5b9c7nd6fh&cover_image=true&theme=novatorem&bar_color=e20bfe&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
     
+![github-bg](https://user-images.githubusercontent.com/56188490/150574365-bb440822-f010-413b-85d9-6c686566eaa6.png)
 
 
 </div>

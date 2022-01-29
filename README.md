@@ -30,6 +30,6 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
     
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=no1z8d43u06hgap5b9c7nd6fh&cover_image=true&theme=novatorem&bar_color=e20bfe&bar_color_cover=true)](https://github.com/DexSterTheDev/)
     
-    
+  
 </div>
 

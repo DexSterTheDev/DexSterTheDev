@@ -32,5 +32,3 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
     
   
 </div>
-
-![BGSA](https://user-images.githubusercontent.com/56188490/217183511-705ee5c4-4825-4bec-a9fa-b4e1a8c701c8.png)

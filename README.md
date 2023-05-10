@@ -23,7 +23,7 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 
  ### 🔖 My Statistics
 &nbsp;
-![DexSter Github Stats](https://github-readme-stats.vercel.app/api?username=DexSterTheDev&theme=dracula&show_icons=true)
+![DexSter Github Stats](https://github-readme-stats.vercel.app/api?username=DexSterTheDev&theme=transparent&show_icons=true)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexSterTheDev&layout=compact&bg_color=DEG,#007bff,#0050b3,#0050b3](https://github.com/DexSterTheDev)
     

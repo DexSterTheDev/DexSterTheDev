@@ -25,7 +25,7 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
 &nbsp;
 ![DexSter Github Stats](https://github-readme-stats.vercel.app/api?username=DexSterTheDev&theme=github_dark&show_icons=true)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexSterTheDev&layout=compact&theme=github_dark&show_icons=true](https://github.com/DexSterTheDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DexSterTheDev&layout=compact&theme=dark&show_icons=true](https://github.com/DexSterTheDev)
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=DexSterTheDev&theme=transparent&hide_border=true)](https://git.io/streak-stats)
     

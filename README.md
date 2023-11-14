@@ -31,6 +31,3 @@ Hi I'm Basit Hameed,  you can call me DexSter. I'm a student of Computer Science
     
   
 </div>
-
-
-![DSADADWE](https://github.com/DexSterTheDev/DexSterTheDev/assets/56188490/e76af7b9-8f60-4351-aa94-58e21af75db6)

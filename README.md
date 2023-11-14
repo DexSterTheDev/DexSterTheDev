@@ -1,6 +1,6 @@
 <div align = "center">
 
-![github-bg](https://github.com/DexSterTheDev/DexSterTheDev/assets/56188490/e76af7b9-8f60-4351-aa94-58e21af75db6)
+![github-bg](https://github.com/DexSterTheDev/DexSterTheDev/assets/56188490/93f5b193-9322-41c3-a256-1232fd6e64c4)
 <p align="center">
     <a href="https://basitshahidhamid.wixsite.com/dexstercodes">
         <img src="https://www.export-entreprises.com/wp-content/themes/ee-jnhey/img/solutions/sub/trade-portal/hero-icon-sub-trade-portal.svg" width="25px" />
